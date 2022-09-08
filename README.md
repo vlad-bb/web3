@@ -1,2 +1,4 @@
-# web3
-WEB3 Project
+_WEB3 Project_
+**Resources**
+
+-   Applications https://cosmos.network/ecosystem/apps
